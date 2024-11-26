@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# npm package lock files (optional, if you want to regenerate the lockfile)
+package-lock.json
+
+# Build output
+/dist
+/build
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Other temporary files
+*.swp
